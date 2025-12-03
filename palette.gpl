@@ -1,0 +1,20 @@
+GIMP Palette
+Name: SNES-Standard
+Columns: 16
+#
+255 255 255 White
+188 188 188 Light Gray
+120 120 120 Gray
+60  60  60  Dark Gray
+0   0   0   Black
+255 188 188 Pink
+255 120 120 Red
+188 60  60  Dark Red
+255 255 188 Light Yellow
+255 255 60  Yellow
+188 188 60  Olive
+120 120 60  Brownish
+188 255 188 Light Green
+60  188 60  Green
+60  120 60  Dark Green
+188 255 255 Aqua
